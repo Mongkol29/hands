@@ -1,0 +1,6 @@
+train: ../hands/images/
+val: ../hands/images/
+# number of classes
+nc: 1
+# class names
+names: ['hand']
